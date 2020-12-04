@@ -1,0 +1,15 @@
+{
+  "name": "Pets and Plants Tracker",
+  "short_name": "P and P Tracker",
+  "start_url": "https://github.com/ctgallant/petsandplantstracker.git",
+  "background_color": "#D3D3D3",
+  "theme_color": "#FFFFFF",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "plant.jpg",
+      "sizes": "100x100",
+      "type": "jpg"
+    }
+  ]
+}
